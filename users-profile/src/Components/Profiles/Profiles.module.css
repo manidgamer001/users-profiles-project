@@ -1,0 +1,12 @@
+.profiles {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+
+.errorMsg {
+  color: red;
+  font-weight: 500;
+  margin: 15px 0;
+}
